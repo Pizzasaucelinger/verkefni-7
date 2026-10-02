@@ -4,7 +4,9 @@ Responsive vefsíða um sex staði á Gullna hringnum og í nágrenni hans: Glj�
 
 ## Skoða vefinn
 
-Opnaðu `index.html` í vafra. Vefurinn er gerður úr HTML og CSS og þarf ekki að setja upp pakka. Nettenging þarf fyrir Google Maps, leturgerðir og myndir frá Wikimedia Commons.
+[Opna vefinn á GitHub Pages](https://pizzasaucelinger.github.io/verkefni-7/index.html)
+
+Vefurinn er gerður úr HTML og CSS og þarf ekki að setja upp pakka. Nettenging þarf fyrir Google Maps, leturgerðir og myndir frá Wikimedia Commons.
 
 ## Skrár
 
@@ -14,13 +16,9 @@ Opnaðu `index.html` í vafra. Vefurinn er gerður úr HTML og CSS og þarf ekki
 - `styles.css` — sameiginlegt útlit og skjástærðir.
 - `images/gljufrasteinn.svg` — upprunaleg SVG-teikning fyrir verkefnið.
 
-## Birta á GitHub Pages
+## GitHub Pages
 
-1. Búðu til GitHub repository sem heitir `verkefni-7`.
-2. Settu allar skrár og `images`-möppuna í rót repository-inu.
-3. Opnaðu **Settings → Pages**.
-4. Veldu **Deploy from a branch**, branch `main` og möppuna `/(root)`, vistaðu svo.
-5. Þegar birting hefur lokið verður forsíðan á `https://NOTANDI.github.io/verkefni-7/index.html`. Skiptu `NOTANDI` út fyrir GitHub-notendanafnið þitt.
+Vefurinn er birtur frá `main`-greininni úr rót repository-ins. Forsíðan er aðgengileg á [pizzasaucelinger.github.io/verkefni-7/index.html](https://pizzasaucelinger.github.io/verkefni-7/index.html).
 
 ## Verkefniskröfur sem eru útfærðar
 

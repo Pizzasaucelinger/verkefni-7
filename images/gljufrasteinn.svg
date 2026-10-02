@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Hús í Mosfellsdal</title>
+  <desc id="desc">Stílfærð mynd af hvítu húsi, grænum hlíðum og læk í Mosfellsdal.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop offset="0" stop-color="#dbe7e3"/><stop offset="1" stop-color="#f2e9d8"/></linearGradient>
+    <linearGradient id="hill" x2="0" y2="1"><stop offset="0" stop-color="#a8b99f"/><stop offset="1" stop-color="#657c68"/></linearGradient>
+    <linearGradient id="river" x2="0" y2="1"><stop offset="0" stop-color="#9bbbc0"/><stop offset="1" stop-color="#63898b"/></linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#sky)"/>
+  <circle cx="960" cy="140" r="72" fill="#f3cf9c" opacity=".85"/>
+  <path d="M0 410 140 270l114 93 174-193 142 166 138-117 170 187 134-119 188 112v401H0Z" fill="#bbc9be"/>
+  <path d="m0 474 166-100 144 62 178-138 144 141 163-94 179 118 131-72 95 50v359H0Z" fill="url(#hill)"/>
+  <path d="M0 602c184-82 329-73 485-15 120 44 195 54 322 5 137-54 277-41 393 24v184H0Z" fill="#d8d5c3"/>
+  <path d="M0 670c197-47 303-18 440 9 139 28 260 17 368-14 139-39 267-30 392 13v122H0Z" fill="#bdc4a7"/>
+  <path d="M442 800c41-63 80-104 150-126 68-22 117-21 191-7 51 10 103 10 174-8 86-22 171-10 243 2v139Z" fill="url(#river)"/>
+  <path d="M488 800c28-37 57-62 98-77 65-24 141-14 199 3 62 18 112 10 171-5 61-16 135-16 244-2" fill="none" stroke="#dce7dc" stroke-width="7" opacity=".7"/>
+  <path d="M278 558h495v173H278z" fill="#f5f1e7"/>
+  <path d="m250 561 274-182 280 182Z" fill="#314740"/>
+  <path d="m284 555 240-157 247 157Z" fill="#b7a88a"/>
+  <path d="M324 568h405v40H324z" fill="#e4dccb"/>
+  <path d="M356 614h79v117h-79zM458 614h79v117h-79zM602 614h79v117h-79z" fill="#536d68"/>
+  <path d="M552 624h35v107h-35z" fill="#8a6048"/>
+  <path d="M302 610h444" stroke="#d0c6b3" stroke-width="5"/>
+  <path d="M281 744h487" stroke="#806f5c" stroke-width="11"/>
+  <path d="M184 587c-8-71 4-138 49-180 39 45 50 111 40 180Z" fill="#536d58"/>
+  <path d="M202 585c-1-94 9-160 31-218 25 67 30 132 25 218Z" fill="#6f876b"/>
+  <path d="M836 582c-11-80 2-145 48-188 40 43 51 111 41 188Z" fill="#536d58"/>
+  <path d="M854 581c0-97 11-160 31-218 26 66 30 132 25 218Z" fill="#71886c"/>
+  <path d="M178 735c47-7 75-4 117 4M803 743c36-12 73-10 111-4" fill="none" stroke="#f2eee0" stroke-width="5" opacity=".75"/>
+</svg>
+
